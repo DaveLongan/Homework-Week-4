@@ -25,7 +25,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="9ff196aa98b7cd87c4a3d9cd31be3e9ae0d6047f">
+        sha1="11e48b603d5a45c05fdf69c688b0454df2f2c298">
         <dex dex="/Volumes/TOSHBIA EXT/Lab03_Template-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_0921b0d2ed6891e3b9a3500dfbd1bd9f3fb7c911/classes.dex" />
     </item>
     <item
@@ -48,15 +48,6 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/student/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
-        <dex dex="/Volumes/TOSHBIA EXT/Lab03_Template-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_20072b0e7da042565a476ddf754ecb321ab6732d/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Volumes/TOSHBIA EXT/Lab03_Template-master/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -72,6 +63,15 @@
         revision="25.0.2"
         sha1="aee64634871d88a419d59eb743c1258a60f19700">
         <dex dex="/Volumes/TOSHBIA EXT/Lab03_Template-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_be77b840af1c4be7aade72fc1d047b5d9a2102a2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DaveLongan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Volumes/TOSHBIA EXT/Lab03_Template-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_6c38c9027e8ac6e6d759bff9def3f22391e13309/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -97,7 +97,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="363ea19649ed51eb991728a42efbc34296db4012">
+        sha1="a4ffb10ea9e2959af5f9dd4f9c3ccd3aee93ea21">
         <dex dex="/Volumes/TOSHBIA EXT/Lab03_Template-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a1de1ad672821937cbad4fd7b78a3cc47f8cacc4/classes.dex" />
     </item>
     <item

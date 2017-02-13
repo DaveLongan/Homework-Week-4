@@ -75,6 +75,7 @@ public class MainActivity extends AppCompatActivity {
 
                 sendFloatPD("freq",Float.parseFloat(freqText.getText().toString()));
                 sendFloatPD("freq2",Float.parseFloat(FMText.getText().toString()));
+                sendFloatPD("button1", 1.0f);
 
             }
         });
@@ -94,7 +95,7 @@ public class MainActivity extends AppCompatActivity {
             {
             @Override
             public void onProgressChanged(SeekBar seekBar, int progress, boolean fromUser) {
-                slide1Value = progress / 100.0f;
+                slide1Value = progress / 1.0f;
 
                 sendFloatPD("slider1", slide1Value);
 
